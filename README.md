@@ -8,8 +8,8 @@ Nili is a Tool for Network Scan, Fingerprint, Man in the Middle and Fuzzing.
 
 ## Prerequisites
 
-* [Python](http://www.dropwizard.io/1.0.2/docs/) - Python Programming Language
-* [Scapy](http://www.secdev.org/projects/scapy/) - Interactive Packet Manipulation Program
+* [Python](https://www.python.org) - Python Programming Language
+* [Scapy](http://www.secdev.org/projects/scapy) - Interactive Packet Manipulation Program
 * [Kivy](https://kivy.org/#home) - Cross Platform Python Framework for GUI Development
 
 ## Installing
