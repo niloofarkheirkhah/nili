@@ -12,10 +12,9 @@ Nili is a Tool for Network Scan, Fingerprint, Man in the Middle and Fuzzing.
 * [Netzob](https://github.com/netzob/netzob) - Protocol Reverse Engineering, Modeling and Fuzzing
 
 ## Installing
-
-Nili does not need any Installation, 
+ 
 Here is some Instructions for Installing Prerequisites, 
-Select Proper Instructions for your Operating System and Python Version.
+Select Proper Instructions for your Operating System.
 
 ### Unix-like
  
@@ -46,16 +45,18 @@ $ python3 -m pip install bintrees --upgrade
 
 ### Windows
 
-1- Install [python-3.x](https://www.python.org)
+1- Install [python3](https://www.python.org)
 
-2- Install [Winpcap-4.1.3](https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe)
+2- Install Scapy:
 
-3- Install Scapy3k:
+2-1- Install [Winpcap](https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe)
+
+2-2- Install Scapy3k
 ```
 python -m pip install scapy-python3
 ```
 
-7- Install [Netzob](https://dev.netzob.org/projects/netzob/wiki/Installation_documentation_on_Windows)
+3- Install [Netzob](https://dev.netzob.org/projects/netzob/wiki/Installation_documentation_on_Windows)
 
 
 ## Authors
