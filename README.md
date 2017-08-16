@@ -1,9 +1,10 @@
 # Nili
 
+![UI](http://www.upsara.com/images/g2js_photo_2017-08-16_12-10-20.jpg)
+
 
 Nili is a Tool for Network Scan, Fingerprint, Man in the Middle and Fuzzing.
 
-![UI](http://www.upsara.com/images/5vxb_capture.png)
 
 ## Prerequisites
 
