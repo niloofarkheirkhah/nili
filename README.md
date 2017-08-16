@@ -5,6 +5,7 @@
 
 Nili is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing.
 
+![UI](http://www.upsara.com/images/9fnf_screenshot_from_2017-08-16_08-00-44..jpg)
 
 ## Prerequisites
 
