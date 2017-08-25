@@ -63,9 +63,10 @@ python -m pip install scapy-python3
 
 ## Authors
 
-* **Niloofar Kheirkhah** - *Initial work* - [niloofarkheirkhah](https://github.com/niloofarkheirkhah)
+* **Niloofar Kheirkhah** - *Initial work* - [niloofarkheirkhah](https://github.com/niloofarkheirkhah) 
+* email: niloofarkheirkhah@gmail.com
 * **Ehsan Mir** - *Initial work* - [ehsanmir](https://github.com/ehsanmir)
-
+* email: ehsan.mir@icloud.com
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
