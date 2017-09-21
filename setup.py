@@ -13,4 +13,8 @@ setup(
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
     ],
     keywords='Security Test',
+    packages=['nili'],
+    entry_points={
+        'console_scripts': ['nili=nili.__main__:main'],
+    },
 )

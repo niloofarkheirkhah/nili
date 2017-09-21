@@ -44,6 +44,11 @@ $ python3 setup.py install
 $ python3 -m pip install bintrees --upgrade
 ```
 
+4- Install Nili
+```
+$ python3 -m pip install git+https://github.com/niloofarkheirkhah/nili
+```
+
 
 ### Windows
 
