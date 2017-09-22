@@ -15,7 +15,7 @@ Nili is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering
 
 ## Installing
  
-Here is some Instructions for Installing Prerequisites, 
+Here is some Instructions for Installing Nili and its Prerequisites, 
 Select Proper Instructions for your Operating System.
 
 ### Unix-like
