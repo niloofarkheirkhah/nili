@@ -44,7 +44,7 @@ $ python3 setup.py install
 $ python3 -m pip install bintrees --upgrade
 ```
 
-4- Install Nili
+4- Install Nili:
 ```
 $ python3 -m pip install git+https://github.com/niloofarkheirkhah/nili
 ```
@@ -58,13 +58,17 @@ $ python3 -m pip install git+https://github.com/niloofarkheirkhah/nili
 
 2-1- Install [Winpcap](https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe)
 
-2-2- Install Scapy3k
+2-2- Install Scapy3k:
 ```
 python -m pip install scapy-python3
 ```
 
 3- Install [Netzob](https://dev.netzob.org/projects/netzob/wiki/Installation_documentation_on_Windows)
 
+4- Install Nili:
+```
+$ python3 -m pip install nili
+```
 
 ## Authors
 
