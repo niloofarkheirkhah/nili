@@ -67,7 +67,7 @@ python -m pip install scapy-python3
 
 4- Install Nili:
 ```
-$ python3 -m pip install nili
+python3 -m pip install nili
 ```
 
 ## Authors
