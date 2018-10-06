@@ -1,6 +1,6 @@
 # Nili
 
-![UI](http://uupload.ir/files/bg44_logo.jpg)
+![UI](http://uupload.ir/files/qav5_logo.jpg)
 
 Nili is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing.
 
