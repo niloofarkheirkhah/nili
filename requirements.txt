@@ -1,2 +1,2 @@
-scapy==2.3.3
+scapy==2.4.1
 netzob==1.1.dev0
